@@ -1,2 +1,2 @@
 # TCC-Game
-Jogo com tema educvativo em coleta de lixo seletiva
+Jogo com tema educativo em coleta de lixo seletiva
